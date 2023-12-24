@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPackage",
+      "LiGlobe2",
+      "LiInfo",
+      "LiStickyNote",
+      "LiHistory"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "00 Inbox": "LiInbox",
+  "10 Calendar": "LiCalendar",
+  "90 System": "LiCog",
+  "Home.md": "LiHome",
+  "30 Sources": "LiLibrary",
+  "20 Notes": "LiFolders",
+  "40 Projects": "LiActivity",
+  "20 Notes/30 People": "LiPersonStanding",
+  "20 Notes/40 Organizations": "LiBuilding",
+  "20 Notes/50 Geographical Information": "LiGlobe",
+  "20 Notes/10 Permanent Notes": "LiStickyNote",
+  "20 Notes/20 Definitions": "LiInfo",
+  "20 Notes/70 History by Region": "LiGlobe2",
+  "20 Notes/80 Historical Topics": "LiPackage",
+  "20 Notes/60 Events": "LiHistory"
+}
