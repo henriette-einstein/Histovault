@@ -1,0 +1,33 @@
+{
+  "language": "en",
+  "searchLimit": 10,
+  "thumbnailWidth": 300,
+  "defaultNotePath": "[current folder]",
+  "templates": [
+    {
+      "name": "Default",
+      "templateString": "{thumbnail}\n# {title} \n{intro}\n# See also\n- [{title} - Wikipedia]({url})\n\n",
+      "createNote": false,
+      "customPath": "",
+      "useTemplateFile": false,
+      "templateFilePath": ""
+    },
+    {
+      "name": "Additional Template",
+      "templateString": "{thumbnail}\n# {title} \n{description}\n# See also\n- [{title} - Wikipedia]({url})\n\n",
+      "createNote": true,
+      "customPath": "[current folder]",
+      "useTemplateFile": false,
+      "templateFilePath": ""
+    }
+  ],
+  "placeCursorInfrontOfInsert": false,
+  "autoInsertSingleResponseQueries": false,
+  "prioritizeArticleTitle": false,
+  "cleanupIntros": true,
+  "openArticleInFullscreen": true,
+  "openArticlesInBrowser": false,
+  "openCreatedNotes": true,
+  "overrideFiles": false,
+  "showedSurfingMessage": true
+}

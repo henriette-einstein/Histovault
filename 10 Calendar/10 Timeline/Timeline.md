@@ -2,11 +2,12 @@
 up: "[[Home]]"
 tags:
   - type/moc
+cssclasses:
+  - embed-strict
 ---
-# Timeline
 ## [[19. Century]]
+![[19. Century]]
 ## [[20. Century]]
+![[20. Century]]
 ## [[21. Century]]
-- [[2000-2009]]
-- [[2010-2019]]
-- [[2020-2029]]
+![[21. Century]]

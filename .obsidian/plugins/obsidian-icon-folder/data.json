@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
       "LiPackage",
       "LiGlobe2",
       "LiInfo",
-      "LiStickyNote",
-      "LiHistory"
+      "LiStickyNote"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,18 +27,18 @@
     "iconsInNotesEnabled": true
   },
   "00 Inbox": "LiInbox",
-  "10 Calendar": "LiCalendar",
   "90 System": "LiCog",
   "Home.md": "LiHome",
-  "30 Sources": "LiLibrary",
-  "20 Notes": "LiFolders",
-  "40 Projects": "LiActivity",
-  "20 Notes/30 People": "LiPersonStanding",
-  "20 Notes/40 Organizations": "LiBuilding",
-  "20 Notes/50 Geographical Information": "LiGlobe",
-  "20 Notes/10 Permanent Notes": "LiStickyNote",
-  "20 Notes/20 Definitions": "LiInfo",
-  "20 Notes/70 History by Region": "LiGlobe2",
-  "20 Notes/80 Historical Topics": "LiPackage",
-  "20 Notes/60 Events": "LiHistory"
+  "10 Calendar": "LiCalendar",
+  "20 Projects": "LiActivity",
+  "30 Notes": "LiFolders",
+  "30 Notes/30 Permanent Notes": "LiStickyNote",
+  "30 Notes/32 People": "LiPersonStanding",
+  "30 Notes/31 Events": "LiHistory",
+  "30 Notes/33 Organizations": "LiBuilding",
+  "30 Notes/34 Geographical Information": "LiGlobe",
+  "30 Notes/35 History by Region": "LiGlobe2",
+  "30 Notes/36 Historical Topics": "LiPackage",
+  "40 Sources": "LiLibrary",
+  "50 Archive": "LiArchive"
 }

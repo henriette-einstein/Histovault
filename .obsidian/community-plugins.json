@@ -3,5 +3,11 @@
   "obsidian-icon-folder",
   "homepage",
   "cmdr",
-  "dataview"
+  "dataview",
+  "settings-search",
+  "obsidian-style-settings",
+  "obsidian-sortable",
+  "tag-wrangler",
+  "wikipedia-search",
+  "surfing"
 ]

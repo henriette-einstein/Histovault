@@ -1,4 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "Histovault"
+  ]
 }

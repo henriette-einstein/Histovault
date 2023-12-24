@@ -38,6 +38,12 @@
       "icon": "lucide-diff",
       "name": "Toggle fold properties in current file",
       "mode": "any"
+    },
+    {
+      "id": "wikipedia-search:link-article",
+      "icon": "feather",
+      "name": "Wikipedia Search: Link Article",
+      "mode": "any"
     }
   ],
   "macros": [],
