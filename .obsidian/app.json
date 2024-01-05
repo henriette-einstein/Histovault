@@ -1,3 +1,11 @@
 {
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "spellcheckDictionary": [
+    "Dataview",
+    "Dataview",
+    "Dataview",
+    "Dataview",
+    "snippets"
+  ],
+  "alwaysUpdateLinks": true
 }

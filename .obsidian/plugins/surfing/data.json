@@ -44,28 +44,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "ec5e4947e2a3367a",
-      "parent": 0,
-      "droppable": true,
-      "text": "Shopping-Malls in den USA: Die Wiedergeburt der amerikanischen Konsumkathedralen - DER SPIEGEL",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "9a984d5209fcb1f4",
-      "parent": 0,
-      "droppable": true,
-      "text": "Gamal Abdel Nasser - Wikipedia",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

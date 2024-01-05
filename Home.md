@@ -2,13 +2,14 @@
 cssclasses:
   - list-cards
 ---
-# Home
 - **General Info**
 	- [[Notes created the last days]]
 	- [[Highlights created the last days]]
 - **Areas**
 	- [[Timeline]]
-	- 
+	- [[Projects]]
+	- [[Topics]]
+	- [[Notes]]
 - **Other**
 	- [[Important Hotkeys]]
 	- [[Vault Setup]]

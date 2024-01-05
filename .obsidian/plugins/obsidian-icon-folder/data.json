@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiArchive",
-      "LiPackage",
-      "LiGlobe2",
-      "LiInfo",
-      "LiStickyNote"
+      "LiLibrary",
+      "LiPenTool",
+      "LiDatabase",
+      "LiBookOpen",
+      "LiArchive"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,14 +31,12 @@
   "Home.md": "LiHome",
   "10 Calendar": "LiCalendar",
   "20 Projects": "LiActivity",
-  "30 Notes": "LiFolders",
-  "30 Notes/30 Permanent Notes": "LiStickyNote",
-  "30 Notes/32 People": "LiPersonStanding",
-  "30 Notes/31 Events": "LiHistory",
-  "30 Notes/33 Organizations": "LiBuilding",
-  "30 Notes/34 Geographical Information": "LiGlobe",
-  "30 Notes/35 History by Region": "LiGlobe2",
-  "30 Notes/36 Historical Topics": "LiPackage",
-  "40 Sources": "LiLibrary",
-  "50 Archive": "LiArchive"
+  "80 Archive": "LiArchive",
+  "60 Sources": "LiBookOpen",
+  "50 Ressources": "LiDatabase",
+  "50 Ressources/52 Organizations": "LiBuilding",
+  "50 Ressources/53 Geographical Information": "LiGlobe",
+  "50 Ressources/51 People": "LiPersonStanding",
+  "30 Topics": "LiLibrary",
+  "40 Notes": "LiPenTool"
 }

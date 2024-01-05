@@ -1,18 +1,18 @@
 ---
-up: "[[20. Century]]"
-prev: "[[1930-1939]]"
-next: "[[1950-1959]]"
-created: 2024-01-05
-start: 1940-1-1 AD
-end: 1949-12-31 AD
+up: 
+prev: 
+next: 
+created: {{date}}
+start: 1-1-1 AD
+end: 2030-12-31 AD
 ---
 ## Events
 
 ```dataview
 table category as "Category", date(start,"y-M-d G") as "Started", date(end,"y-M-d G") as "Ended" from #type/event
 where
-date(start,"y-M-d G") >= date(this.start,"y-M-d G") and
-date(end,"y-M-d G") <= date(this.end,"y-M-d G")
+date(this.start,"y-M-d G") >= date(start,"y-M-d G") and
+date(this.end,"y-M-d G") <= date(end,"y-M-d G")
 sort date(start,"y-M-d G")
 ```
 

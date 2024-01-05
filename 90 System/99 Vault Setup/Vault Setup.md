@@ -1,2 +1,2 @@
 
-[[Initial Vault Setup]]
+[[Theme and Plugins]]
