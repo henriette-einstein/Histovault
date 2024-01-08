@@ -5,11 +5,14 @@ cssclasses:
 - **General Info**
 	- [[Notes created the last days]]
 	- [[Highlights created the last days]]
+	- [[Inbox]]
 - **Areas**
 	- [[Timeline]]
 	- [[Projects]]
 	- [[Topics]]
 	- [[Notes]]
-- **Other**
-	- [[Important Hotkeys]]
-	- [[Vault Setup]]
+	- [[Ressources]]
+
+## Other
+- [[Important Hotkeys]]
+- [[Vault Setup]]

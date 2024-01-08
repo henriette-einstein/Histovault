@@ -1,0 +1,1 @@
+This folder contains calendar related notes. Initially, only the folder "10 Timeline" is included, that contains timeline notes (Start here: [[Timeline]]). 
