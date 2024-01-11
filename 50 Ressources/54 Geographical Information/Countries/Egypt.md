@@ -11,3 +11,4 @@ created: 2024-01-08
 
 # See also
 - [Egypt - Wikipedia](https://en.wikipedia.org/wiki/Egypt)
+- [Egypt - The World Factbook](https://www.cia.gov/the-world-factbook/countries/egypt/)

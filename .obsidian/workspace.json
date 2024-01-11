@@ -4,48 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cb9f39b5b3cd3f72",
+        "id": "0a04327a69d4b0d1",
         "type": "tabs",
         "children": [
           {
-            "id": "8fff2715e21d3eb2",
+            "id": "cabee5a90771c855",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "50 Ressources/52 Organizations/United Nations.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caa74c011e3e08ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Notes/40 MOCs/Events.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3b4eb0300c3a47f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "40 Notes/41 History/20. Century/1948 Palestine war.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#type/moc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,14 +58,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "98ef29092b153e90",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
               "state": {}
             }
           }
@@ -119,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 Notes/40 MOCs/Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 Notes/40 MOCs/Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "40 Notes/40 MOCs/Events.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,53 +130,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "wikipedia-search:Open Article": false,
       "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "caa74c011e3e08ce",
+  "active": "cabee5a90771c855",
   "lastOpenFiles": [
-    "40 Notes/40 MOCs/Political Event.md",
-    "40 Notes/41 History/20. Century/Formation of the Arab League.md",
-    "40 Notes/40 MOCs/Conflict.md",
-    "40 Notes/41 History/20. Century/1948 Palestine war.md",
-    "40 Notes/40 MOCs/Events.md",
+    "90 System/92 Classes/Person.md",
+    "90 System/92 Classes",
+    "90 System/91 Templates/Person Template.md",
+    "50 Ressources/50 MOCs/Concepts.md",
+    "50 Ressources/51 People/Abdel Fattah el-Sisi.md",
+    "90 System/91 Templates/Concept Template.md",
+    "50 Ressources/51 People/Abd al-Aziz ibn Saud.md",
+    "40 Notes/41 History/20. Century/1967 Six Day-War.md",
+    "50 Ressources/52 Organizations/Members of the Arab League.md",
     "50 Ressources/52 Organizations/Arab League.md",
-    "50 Ressources/52 Organizations/United Nations.md",
+    "50 Ressources/54 Geographical Information/Countries/Syria.md",
+    "40 Notes/41 History/20. Century/Formation of the Arab League.md",
+    "40 Notes/40 MOCs/Political Event.md",
+    "40 Notes/40 MOCs/Conflict.md",
     "50 Ressources/Concepts/Human Development Index (HDI).md",
-    "90 System/99 Vault Setup/Period Notes in Obsidian/Overview Notes for Time Periods.md",
     "50 Ressources/Concepts",
-    "40 Notes/41 History/20. Century/1967 Six Days War.md",
-    "50 Ressources/54 Geographical Information/Countries/Egypt.md",
-    "50 Ressources/50 MOCs/Countries.md",
-    "50 Ressources/50 MOCs/Ressources.md",
-    "50 Ressources/50 MOCs/Organizations.md",
-    "90 System/91 Templates/City Template.md",
-    "90 System/91 Templates/Country Template.md",
-    "10 Calendar/10 Timeline/1900-1999/1950-1959.md",
-    "10 Calendar/Calendar.md",
-    "50 Ressources/53 Companies",
-    "Home.md",
+    "90 System/99 Vault Setup/Period Notes in Obsidian/Overview Notes for Time Periods.md",
     "40 Notes/41 History/20. Century/1956 Suez Crisis.md",
+    "50 Ressources/54 Geographical Information/Countries/Egypt.md",
+    "90 System/91 Templates/Country Template.md",
+    "90 System/91 Templates/City Template.md",
+    "50 Ressources/50 MOCs/Ressources.md",
+    "50 Ressources/52 Organizations/United Nations.md",
+    "50 Ressources/50 MOCs/Organizations.md",
+    "50 Ressources/50 MOCs/Countries.md",
+    "50 Ressources/53 Companies",
     "90 System/91 Templates/Event Template.md",
-    "10 Calendar/10 Timeline/1800-1899/1870-1879.md",
-    "90 System/99 Vault Setup/Period Notes in Obsidian",
-    "00 Inbox/Inbox.md",
-    "90 System/99 Vault Setup/Theme and Plugins.md",
-    "40 Notes/40 MOCs",
-    "90 System/99 Vault Setup/Vault Setup.md",
-    "90 System/99 Vault Setup/Display Historical Dates/Optimize the Display of Historical Dates using the DataView Plugin.md",
+    "40 Notes/40 MOCs/Events.md",
+    "50 Ressources/54 Geographical Information/Regions",
+    "50 Ressources/54 Geographical Information/Locations",
+    "50 Ressources/54 Geographical Information/Countries",
+    "50 Ressources/54 Geographical Information/Cities",
+    "50 Ressources/54 Geographical Information",
+    "50 Ressources/50 MOCs/Events.md",
     "40 Notes/41 History/20. Century",
     "50 Ressources/50 MOCs",
-    "40 Notes/41 History",
-    "40 Notes",
-    "Untitled",
-    "50 Ressources/54 Geographical Information/Regions",
     "90 System/99 Vault Setup/Display Historical Dates/Year of Birth and Death.png",
     "90 System/99 Vault Setup/Display Historical Dates/Sort by Date.png",
     "90 System/99 Vault Setup/Display Historical Dates/Dataview settings.png",

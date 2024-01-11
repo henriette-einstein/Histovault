@@ -34,8 +34,6 @@
   "80 Archive": "LiArchive",
   "60 Sources": "LiBookOpen",
   "50 Ressources": "LiDatabase",
-  "50 Ressources/52 Organizations": "LiBuilding",
-  "50 Ressources/51 People": "LiPersonStanding",
   "30 Topics": "LiLibrary",
   "40 Notes": "LiPenTool"
 }

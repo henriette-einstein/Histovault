@@ -8,3 +8,4 @@ created: 2024-01-08
 - [[Organizations]]
 - [[Countries]]
 - [[Cities]]
+- [[Concepts]]
